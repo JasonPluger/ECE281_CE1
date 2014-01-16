@@ -5,3 +5,5 @@ Jason Pluger's lame circuit
 
 ##Analysis
 
+**Truth Table**
+truthtable.JPG
