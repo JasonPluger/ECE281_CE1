@@ -10,7 +10,6 @@ therfore revised my original results to be consistent with the waveform.
 
 
 **Truth Table**
-
 Oh bother, I'm upside down...
 ...and I don't know how to fix myself
 ![alt text][logo] 
