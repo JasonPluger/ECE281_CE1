@@ -6,4 +6,4 @@ Jason Pluger's lame circuit
 ##Analysis
 
 **Truth Table**
-truthtable.JPG
+https://github.com/JasonPluger/ECE281_CE1/blob/master/truthtable.JPG
